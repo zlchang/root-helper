@@ -34,6 +34,7 @@ SET(
 	ValErrPair.cxx
 	${DICT_FILE}.cxx
 	utils.cc
+        binary.cc
 	)
 
 ADD_LIBRARY(
